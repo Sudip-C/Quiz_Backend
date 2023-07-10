@@ -1,0 +1,117 @@
+{
+   
+    "results": [
+    {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+    "False"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Nutella is produced by the German company Ferrero.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+    "True"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer": "Bullfighting",
+    "incorrect_answers": [
+    "Fiestas",
+    "Flamenco",
+    "Mariachi"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Kissing someone for one minute burns about 2 calories.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+    "False"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The French word to travel is &quot;Travail&quot;",
+    "correct_answer": "False",
+    "incorrect_answers": [
+    "True"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What character was once considered to be the 27th letter of the alphabet?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": [
+    "Interrobang",
+    "Tilde",
+    "Pilcrow"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who invented Pastafarianism?",
+    "correct_answer": "Bobby Henderson",
+    "incorrect_answers": [
+    "Eric Tignor",
+    "Bill Nye",
+    "Zach Soldi"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where is Apple Inc. headquartered?",
+    "correct_answer": "Cupertino, California",
+    "incorrect_answers": [
+    "Redwood City, California",
+    "Redmond, Washington",
+    "Santa Monica, CA"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "correct_answer": "Plum",
+    "incorrect_answers": [
+    "Apple",
+    "Peach",
+    "Pear"
+    ]
+    },
+    {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the Playstation 3 released?",
+    "correct_answer": "November 11, 2006",
+    "incorrect_answers": [
+    "January 8, 2007",
+    "December 25, 2007",
+    "July 16, 2006"
+    ]
+    }
+    ]
+    }
