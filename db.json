@@ -112,6 +112,146 @@
     "December 25, 2007",
     "July 16, 2006"
     ]
-    }
+    },
+    
+{},
+{},
+{},
+{
+"category": "Geography",
+"type": "boolean",
+"difficulty": "easy",
+"question": "There is a city called Rome in every continent on Earth.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The World Health Organization headquarters is located in which European country?",
+"correct_answer": "Switzerland",
+"incorrect_answers": [
+"United Kingdom",
+"France",
+"Belgium"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the official language of Costa Rica?",
+"correct_answer": "Spanish",
+"incorrect_answers": [
+"English",
+"Portuguese",
+"Creole"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which country is the home of the largest Japanese population outside of Japan?",
+"correct_answer": "Brazil",
+"incorrect_answers": [
+"China",
+"Russia",
+"The United States"
+]
+},
+{
+"category": "Geography",
+"type": "boolean",
+"difficulty": "medium",
+"question": "Norway has a larger land area than Sweden.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What was the most populous city in the Americas in 2015?",
+"correct_answer": "S&atilde;o Paulo",
+"incorrect_answers": [
+"New York",
+"Mexico City",
+"Los Angeles"
+]
+},
+{
+"category": "Geography",
+"type": "boolean",
+"difficulty": "easy",
+"question": "Hungary is the only country in the world beginning with H.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What continent is the country Lesotho in?",
+"correct_answer": "Africa",
+"incorrect_answers": [
+"Asia",
+"South America",
+"Europe"
+]
+},
+{
+"category": "Geography",
+"type": "boolean",
+"difficulty": "hard",
+"question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the northernmost human settlement with year round inhabitants?",
+"correct_answer": "Alert, Canada",
+"incorrect_answers": [
+"Nagurskoye, Russia",
+"McMurdo Station, Antarctica ",
+"Honningsv&aring;g, Norway"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "How many time zones are in Russia?",
+"correct_answer": "11",
+"incorrect_answers": [
+"8",
+"5",
+"2"
+]
+},
+{
+"category": "Geography",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The Pyrenees mountains are located on the border of which two countries?",
+"correct_answer": "France and Spain",
+"incorrect_answers": [
+"Italy and Switzerland",
+"Norway and Sweden",
+"Russia and Ukraine"
+]
+}
     ]
     }
