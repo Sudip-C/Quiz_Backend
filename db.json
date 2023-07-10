@@ -252,6 +252,124 @@
 "Norway and Sweden",
 "Russia and Ukraine"
 ]
-}
+},
+{
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+    "correct_answer": "Puma",
+    "incorrect_answers": [
+    "Nike",
+    "Adidas",
+    "Reebok"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "correct_answer": "Eagle",
+    "incorrect_answers": [
+    "Birdie",
+    "Bogey",
+    "Albatross"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country is hosting the 2022 FIFA World Cup?",
+    "correct_answer": "Qatar",
+    "incorrect_answers": [
+    "Uganda",
+    "Vietnam",
+    "Bolivia"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Olympics tennis court is a giant green screen.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+    "False"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team won 2014 FIFA World Cup in Brazil?",
+    "correct_answer": "Germany",
+    "incorrect_answers": [
+    "Argentina",
+    "Brazil",
+    "Netherlands"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "incorrect_answers": [
+    "Scuderia Ferrari",
+    "McLaren Honda",
+    "Red Bull Racing Renault"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+    "correct_answer": "Fastball",
+    "incorrect_answers": [
+    "Slowball",
+    "Screwball",
+    "Palmball"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which African American is in part responsible for integrating  Major League baseball?",
+    "correct_answer": "Jackie Robinson",
+    "incorrect_answers": [
+    "Curt Flood",
+    "Roy Campanella",
+    "Satchell Paige"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": [
+    "Sebastian Vettel",
+    "Nico Rosberg",
+    "Max Verstappen"
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Canadian football, scoring a rouge is worth how many points?",
+    "correct_answer": "1",
+    "incorrect_answers": [
+    "2",
+    "3",
+    "4"
+    ]
+    }
     ]
     }
